@@ -77,6 +77,12 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF:1 ,Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:1 ,DD National
+https://netlivetv.xyz/iptv/jio/streams/6f56f2ee5ac5d2d55ce06f4cb1c4df72/DD_National_800.m3u8?usfAuth=nduYmtzLmJeWndqXnZuYmtiXmwvMmwy4yZG2ogrMnwe4nJu5ngzMmc0Tlte2nZu0mdy3ndG
+#EXTINF:1 ,Dabangg
+https://netlivetv.xyz/iptv/jio/streams/dbfe4bc67fa204622e8c19455e8ce7d7/Dabangg_800.m3u8?usfAuth=yZCZzdu0mMjKmwjJmMjKnde5otm4n2q5ztLKm2nLodG1zda3mgfIzc0Tlte2nZu0mdy4mde
+#EXTINF:1 ,Rishtey
+https://netlivetv.xyz/iptv/jio/streams/cdab28f3078cb719bc1a4afbeb18ee1e/4.m3u8?usfAuth=zMuWyJjKmwu2nZyZyJnJztG1otnHy2i3mZCYztyYywyYowfJyJa5oc0Tlte2nZu0mdy4ntK
 #EXTINF:1 ,MTV Beats HD
 https://netlivetv.xyz/iptv/jio/streams/ec279cee14bbc1b1518573d7ed8bd7d2/4.m3u8?usfAuth=ztjIzJuXotK3nJzJyJbHywi0nJLIytqXyZmXmdu1zgq3m2fMnJi4ns0Tlte2nZu0mdeWnJK
 #EXTINF:1 ,Zee Cinema HD
