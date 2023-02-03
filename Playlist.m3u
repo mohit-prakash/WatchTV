@@ -77,24 +77,24 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 #EXTINF:1 ,Discovery Science
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-#EXTINF:1 ,DD National
-https://z5ak-live.zee5.com/out/v1/061be0ece7a849939ac2d9031f8fc532/hdntl=exp=1675530902~acl=/*~data=hdntl~hmac=340c4326495c00e52d2d7498ba51bd4cbf05180e7c2c697e7e24b69f657c2bb1/index_6.m3u8
+#EXTINF1 ,DD National
+#https://z5ak-live.zee5.com/out/v1/061be0ece7a849939ac2d9031f8fc532/hdntl=exp=1675530902~acl=/*~data=hdntl~hmac=340c4326495c00e52d2d7498ba51bd4cbf05180e7c2c697e7e24b69f657c2bb1/index_6.m3u8
 #EXTINF:1 ,Shemaroo TV
 https://livetv-channels.b-cdn.net/8094/chunklist0.m3u8
 #EXTINF:1 ,Cinema TV
 https://livetv-channels.b-cdn.net/8000/chunklist0.m3u8
 #EXTINF:1 ,Dabangg
 https://livetv-channels.b-cdn.net/8012/chunklist0.m3u8
-#EXTINF:1 ,Rishtey
-https://netlivetv.xyz/iptv/jio/streams/cdab28f3078cb719bc1a4afbeb18ee1e/4.m3u8?usfAuth=zMuWyJjKmwu2nZyZyJnJztG1otnHy2i3mZCYztyYywyYowfJyJa5oc0Tlte2nZu0mdy4ntK
+#EXTINF1 ,Rishtey
+#https://netlivetv.xyz/iptv/jio/streams/cdab28f3078cb719bc1a4afbeb18ee1e/4.m3u8?usfAuth=zMuWyJjKmwu2nZyZyJnJztG1otnHy2i3mZCYztyYywyYowfJyJa5oc0Tlte2nZu0mdy4ntK
 #EXTINF:1 ,B4U Kadak
 https://livetv-channels.b-cdn.net/8091/chunklist0.m3u8
 #EXTINF:1 ,Dhinchak2
 https://livetv-channels.b-cdn.net/8022/chunklist0.m3u8
 #EXTINF:1 ,B4U Bhojpuri
 https://livetv-channels.b-cdn.net/8019/chunklist0.m3u8
-#EXTINF:1 ,MTV Beats HD
-https://netlivetv.xyz/iptv/jio/streams/ec279cee14bbc1b1518573d7ed8bd7d2/4.m3u8?usfAuth=ztjIzJuXotK3nJzJyJbHywi0nJLIytqXyZmXmdu1zgq3m2fMnJi4ns0Tlte2nZu0mdeWnJK
+#EXTINF1 ,MTV Beats HD
+#https://netlivetv.xyz/iptv/jio/streams/ec279cee14bbc1b1518573d7ed8bd7d2/4.m3u8?usfAuth=ztjIzJuXotK3nJzJyJbHywi0nJLIytqXyZmXmdu1zgq3m2fMnJi4ns0Tlte2nZu0mdeWnJK
 #EXTINF:1 ,Music India
 https://livetv-channels.b-cdn.net/8005/chunklist0.m3u8
 #EXTINF:1 ,M Tunes
@@ -127,3 +127,46 @@ https://livetv-channels.b-cdn.net/8081/chunklist0.m3u8
 #https://netlivetv.xyz/iptv/jio/streams/7d0a3dffa817d258db8a1c383e8dcd84/6.m3u8?usfAuth=yMm1nwmYyZaYyJi5nJGYnZfKyZK0ngi2n2u3yZGXmgjModaZmZKXmI0Tlte2nZu0mdu3mtu
 #EXTINF1 ,B4U Movies
 #https://netlivetv.xyz/iptv/jio/streams/e86543130da2aa742d96fd576b31a437/B4U_Movies_800.m3u8?usfAuth=nwe0zgq4ytGXogjKnteZytnKmtrHntqZndrJyZqWntjMngq0nZC0zc0Tlte2nZu0mdy0nte
+
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/4_244.png" group-title="Sony Liv",SONY HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/33_247.png" group-title="Sony Liv",SONY SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/35_249.png" group-title="Sony Liv",SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/2_250.png" group-title="Sony Liv",SONY MAX2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/34_252.png" group-title="Sony Liv",SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/32_254.png" group-title="Sony Liv",SONY BBC EARTH HD
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/9_255.png" group-title="Sony Liv",SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/6_257.png" group-title="Sony Liv",SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/10_258.png" group-title="Sony Liv",SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/12_259.png" group-title="Sony Liv",SONY YAY
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/20_262.png" group-title="Sports",SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/22_261.png" group-title="Sports",SONY TEN 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/24_263.png" group-title="Sports",SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/38_264.png" group-title="Sports",SONY TEN 4
+https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/18_265.png" group-title="Sports",SONY TEN 5
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/21_266.png" group-title="Sports",SONY TEN 1 HD
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/23_267.png" group-title="Sports",SONY TEN 2 HD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/25_268.png" group-title="Sports",SONY TEN 3 HD
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/39_269.png" group-title="Sports",SONY TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/19_270.png" group-title="Sports",SONY TEN 5 HD
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+
