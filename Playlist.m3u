@@ -166,5 +166,5 @@ https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:1 tvg-logo="https://d1or4efq32i6bx.cloudfront.net/logo/19_270.png" group-title="Sports",SONY TEN 5 HD
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:1 ,Colors HD
-https://vootlivejio-vodafone.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output/dash/Colors_HD_voot_MOB-video=3110800.dash?hdntl=exp=1675575356~acl=/*~data=hdntl~hmac=91c23f4211793dc4951d2be7c72ae8e19ef7eeefbddf93ddfc2a348064999a65
+#EXTINF:1 ,Zee Tv
+https://z5ak-live.zee5.com/out/v1/ea6fe7c79c6f494792e1ee846b4a5259/hdntl=exp=1675576226~acl=/*~data=hdntl~hmac=77b36bd29184bafdde64ef416c5fdb4d58e57702d86b1576933d921d52682be2/index_41.m3u8
