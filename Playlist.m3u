@@ -71,7 +71,7 @@ https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:1 ,Zee Cinema HD
 https://watchtvs.live/getm3u8?id=165&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Cinema_HD_MOB/Fallback/Zee_Cinema_HD_MOB-audio_33636_eng=33600-video=148000.m3u8
-#EXTINF1 ,And Pictures HD
+#EXTINF:1 ,And Pictures HD
 https://watchtvs.live/getm3u8?id=185&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/And_Pictures_HD_MOB/Fallback/And_Pictures_HD_MOB-audio_33636_eng=33600-video=148000.m3u8
 #EXTINF:1 ,And TV HD
 https://watchtvs.live/getm3u8?id=472&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/And_TV_HD_MOB/Fallback/And_TV_HD_MOB-audio_33636_eng=33600-video=148000.m3u8
@@ -89,7 +89,7 @@ https://watchtvs.live/getm3u8?id=202&m3u8=/jiotvmblive.cdn.jio.com/DD_National/D
 https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
 #EXTINF:1 ,Sony. BBC Earth Hindi HD
 https://watchtvs.live/getm3u8?id=821&m3u8=/jiotvmblive.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_1200.m3u8
-#EXTINF1 ,Sanskar
+#EXTINF:1 ,Sanskar
 https://livetv-channels.b-cdn.net/8032/chunklist0.m3u8
 
 #Sony Liv working channel below (backup link)
