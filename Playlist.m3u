@@ -60,7 +60,8 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:1 ,MTV Beats HD
 https://watchtvs.live/getm3u8?id=753&m3u8=/jiotvmblive.cdn.jio.com/packagerx_mpd2/MTV_Beats_HD_HLS/4.m3u8
 #EXTINF:1 ,Set HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+https://watchtvs.live/getm3u8?id=291&m3u8=/jiotvmblive.cdn.jio.com/packagerx_mpd3/Sony_HD_HLS/4.m3u8
+#https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
 #EXTINF:1 ,Sab HD
 https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
 #EXTINF:1 ,Sony. BBC Earth HD
@@ -68,7 +69,8 @@ https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:1 ,Sony Pal
 https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
 #EXTINF:1 ,Sony Max HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+https://watchtvs.live/getm3u8?id=476&m3u8=/jiotvmblive.cdn.jio.com/packagerx_mpd3/Sony_Max_HD_HLS/4.m3u8
+#https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 #EXTINF:1 ,Zee Cinema HD
 https://watchtvs.live/getm3u8?id=165&m3u8=/jiotvmblive.cdn.jio.com/bpk-tv/Zee_Cinema_HD_MOB/Fallback/Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8
 #EXTINF:1 ,And Pictures HD
