@@ -2055,3 +2055,125 @@ https://livetv-channels.b-cdn.net/8033/chunklist0.m3u8
 https://watchtvs.live/getm3u8?id=821&m3u8=/jiotvmblive.cdn.jio.com/Sony_BBC_Earth_HD/Sony_BBC_Earth_HD_1200.m3u8
 #EXTINF:1 group-title="DTH",Sanskar
 https://livetv-channels.b-cdn.net/8032/chunklist0.m3u8
+#EXTINF:1 group-title="DTH",StarSports1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd2nc/58220
+#EXTINF:1 group-title="DTH",Hungama
+http://3.27.107.138/madstream.live/hungama/index.m3u8
+#EXTINF:1 group-title="DTH",SONYHD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:1 group-title="DTH",SONYSABHD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:1 group-title="DTH",SONYPAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:1 group-title="DTH",SONYAATH
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:1 group-title="DTH",SONYYAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:1 group-title="DTH",SONYMAXHD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:1 group-title="DTH",SONYMAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:1 group-title="DTH",SONYWAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:1 group-title="DTH",SONYMAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:1 group-title="DTH",SONYPIXHD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:1 group-title="DTH",SONYBBCEARTH
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:1 group-title="DTH",SONYTEN1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:1 group-title="DTH",SONYTEN2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:1 group-title="DTH",SONYTEN3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:1 group-title="DTH",SONYTEN4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:1 group-title="DTH",SONYSIX
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OidoaiAw/master.m3u8
+#EXTINF:1 group-title="DTH",SONYTEN1HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:1 group-title="DTH",SONYTEN2HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:1 group-title="DTH",SONYTEN3HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:1 group-title="DTH",SONYTEN4HD
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:1 group-title="DTH",SONYSIXHD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:1 group-title="DTH",DiscoveryChannel
+https://madplay.live/discovery/discovery.m3u8
+#EXTINF:1 group-title="DTH",AnimalPlanet
+https://madplay.live/discovery/animalplanet.m3u8
+#EXTINF:1 group-title="DTH",DiscoveryScience
+https://madplay.live/discovery/dscience.m3u8
+#EXTINF:1 group-title="DTH",SONY SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:1 group-title="DTH",SONY SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:1 group-title="DTH",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:1 group-title="DTH",Sony PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Aath
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:1 group-title="DTH",Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:1 group-title="DTH",Sony WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:1 group-title="DTH",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF:1 group-title="DTH",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:1 group-title="DTH",Sony MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 4 HD
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Ten 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Yay
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:1 group-title="DTH",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:1 group-title="DTH",DiscoveryChannel
+https://madplay.live/discovery/discovery.m3u8
+#EXTINF:1 group-title="DTH",AnimalPlanet
+https://madplay.live/discovery/animalplanet.m3u8
+#EXTINF:1 group-title="DTH",DiscoveryScience
+https://madplay.live/discovery/dscience.m3u8
+#EXTINF:1 group-title="DTH",TLC
+https://madplay.live/discovery/tlc.m3u8
+#EXTINF:1 group-title="DTH",DiscoveryTurbo
+https://madplay.live/discovery/dturbo.m3u8
+#EXTINF:1 group-title="DTH",InvestigationDiscovery
+https://madplay.live/discovery/dinvest.m3u8
+#EXTINF:1 group-title="DTH",Eurosport
+https://madplay.live/discovery/eurosports.m3u8
+#EXTINF:1 group-title="DTH",DMAX
+https://madplay.live/discovery/dmax.m3u8
+#EXTINF:1 group-title="DTH",TRVLChannel
+https://madplay.live/discovery/trvl.m3u8
+#EXTINF:1 group-title="DTH",HGTV
+https://madplay.live/discovery/hgtv.m3u8
+#EXTINF:1 group-title="DTH",FoodNetwork
+https://madplay.live/discovery/foodn.m3u8
+#EXTINF:1 group-title="DTH",DiscoveryKids
+https://madplay.live/discovery/dkids.m3u8
